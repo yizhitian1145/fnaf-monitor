@@ -52,7 +52,7 @@ export default function StartScreen({ onStart, onCustomImages }: StartScreenProp
       {showSettings && (
         <div className="absolute top-16 right-4 bg-black/80 backdrop-blur p-4 rounded-lg shadow-lg z-20 border border-gray-800">
           <a
-            href="https://github.com/your-username/fnaf-monitor"
+            href="https://github.com/yizhitian1145/fnaf-monitor"
             target="_blank"
             rel="noopener noreferrer"
             className="block mb-4 text-white hover:text-gray-300 transition-colors duration-200 font-mono"
