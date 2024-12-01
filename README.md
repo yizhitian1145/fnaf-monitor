@@ -5,3 +5,4 @@
 
 想要访问该项目的可以点击[试用链接](https://lepqneebc9bfvn3o8p9elwv5vfdpjecm.vercel.app/)
 
+附言：我也不知道做这个有什么用处，可能只是假装自己在看监控吧：）
